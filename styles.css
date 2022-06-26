@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 4rem;
+    color: #66BFBF;
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #66BFBF;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:  #11999E;
+}
+hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: gray;
+    width: 5%;
+    margin-bottom: 7%;
+}
+a{
+    color:  #11999E;
+    
+}
+a:hover{
+    color: #EAF6F6;
+}
+.top-container{
+    background-color: aliceblue;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    left: 70%;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 20%;
+    bottom: 50%;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.introduction{
+    width: 40%;
+    margin: 100px auto 100px auto;
+}
+.code-img{
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 2%;
+}
+.code2-img{
+    width: 25%;
+    border-radius: 50%;
+    float: right;
+    margin-left: 2%;
+}
+.my-img{
+    width: 25%;
+    border-radius: 50%;
+}
+.contact-info{
+    background-color: #60c1c1;
+    margin: 0px auto 0px auto;
+    padding: 3%;
+}
+
+
