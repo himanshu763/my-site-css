@@ -40,13 +40,18 @@ a:hover{
     padding-top: 100px;
 }
 .top-cloud{
+    width: 10%;
     position: absolute;
     left: 70%;
 }
 .bottom-cloud{
+    width: 10%;
     position: absolute;
     left: 20%;
     bottom: 50%;
+}
+.mountain{
+    width: 40%;
 }
 .skill-row{
     width: 50%;
